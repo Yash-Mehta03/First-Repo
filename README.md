@@ -1,3 +1,3 @@
 # First-Repo
-This is m,y firsdst git Repository
+This is my firsdst git Repository
 Author- Yash Mehta
